@@ -6,4 +6,5 @@ int main(void)
 	for (int i = 0; i < 6, i++)
 	{
 		cin >> array[i];
+		dadsdd;
 	}
